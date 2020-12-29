@@ -1,6 +1,6 @@
 # AzentTask
 Project for Azent Automation Task
-This project has been build using Java with Maven, jars and plugins used are mentioned in pom.xml file which is located on project root folder. Aim of this project is to automate few scnearios of this website - 
+This project has been build using Java with Maven, jars and plugins used are mentioned in pom.xml file which is located on project root folder. Aim of this project is to automate few scenarios for the Azent login/signup page
 
 Scenarios Covered in this framework:
 
